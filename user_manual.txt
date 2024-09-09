@@ -1,0 +1,65 @@
+    USER MANUAL:
+
+    Purpose:
+    To improve financial stability among New Zealand tertiary students aged 
+    18-25.
+
+    First window that appears: This is the first page which will be displayed.
+    At the top of the page you will see a navigation bar with three buttons to
+    take you to the log in page or sign up page. Alternatively, you can click
+    the exit button, and a warning message will appear informing you that any
+    progress you have made will NOT be saved, then it will ask if you would 
+    like to exit the program, click Yes or  No.
+
+    Signing up:
+    In the sign up page, you can create an account by entering your first name,
+    last name, username, password, and confirmation of password. All of this
+    information will be kept confidential and only accessed via your username
+    and password when you are logged in. To sign up simply click the gold 
+    button at the bottom of the page, and you will be informed of a successful 
+    sign up or an error made somewhere. For example, if your passwords are not 
+    matching, you will be informed and can try again, also the first name and 
+    last name must contain letters only. If you accidentally clicked the sign 
+    up button you can click the log in button in the top right corner of that 
+    page to be redirected or you can exit the programme via the first page.
+    When building on your profile, simply follow the birthdate format 
+    (dd/mm/yyyy) and enter your birthdate.
+
+    Logging in:
+    To log in, username and password are necessary to gain access to any
+    confidential information and use the program.
+
+    Home page: Once successfully signed up or logged in, you will be redirected 
+    to the home page, where you can see more buttons have been added to the
+    navigational bar such as home, about, my budget, tips, help, and profile.
+    This navigation bar can be found on any page you are on. An underlined 
+    button indicates the page you are on. The exit button is consistently on 
+    the top right corner. To get started click the large gold button on the 
+    home page called Get started.
+
+    About page: In this page you can find an introduction into budgeting and 
+    get a brief overview of what this program has to offer, including the 
+    process that this is done.
+
+    My budget: Once you have completed your budget via getting started, your
+    budget plan will be saved, and can be quickly accessed by this shortcut 
+    button.
+    Tips page: The tips page is currently unavailable (this component does not
+    work in my program).
+
+    Profile page and signing out: In this page, you can view all of your 
+    personal information which you have provided including first name, 
+    last name, username, birthdate, tertiary status, and knowledge of 
+    budgeting. At the bottom of this page, there is a signout button. 
+    IMPORTANT: Signout button only works on the home page and no other page, 
+    sorry for the inconveinence.
+
+    In this program, a calorie deficit or surplus will be calculated based off
+    your budgeting. The meanings will be displayed when it is presented. Also
+    the meanings are as follows:
+    Income surplus: Incoming money exceeds the cost of expenses. This means you
+    can assign more money towards debts and essential costs.
+    Income deficit: The cost of expenses exceeds incoming money. This means
+    non-essential costs should be reduced in order to avoid debt.
+
+    Please enjoy the benefits this program has to offer!
